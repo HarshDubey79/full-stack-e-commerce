@@ -5,6 +5,7 @@ function App() {
   return (
     <>
       <h1 className='text-danger'>Welcome to Full Stack E-commerce Application</h1>
+      
      </>  
   );
 }
